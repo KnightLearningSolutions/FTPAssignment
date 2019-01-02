@@ -1,0 +1,435 @@
+2018-12-31 21:11:38 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:11:54 INFO  FileClient:57 - File Already Exists. Want to OverWrite (Y/N) ?
+2018-12-31 21:13:09 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:13:21 INFO  FileClient:79 - read 21789 bytes.0
+2018-12-31 21:29:05 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:29:22 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:30:04 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:33:42 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:34:25 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:35:01 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:35:21 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:19 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=42896]
+2018-12-31 21:39:27 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:39 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2018-12-31 21:39:52 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:39:58 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2018-12-31 21:51:03 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=42938,localport=13267]
+2018-12-31 21:51:03 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=42938]
+2018-12-31 21:51:14 INFO  FileClient:91 - Enter File Name :
+2018-12-31 21:51:34 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2018-12-31 21:53:34 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:53:59 INFO  FileClient:47 - File not found on Server ...
+2018-12-31 21:54:07 INFO  FileClient:39 - Enter File Name :
+2018-12-31 21:54:13 INFO  FileClient:79 - read 9072 bytes.0
+2018-12-31 22:16:58 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=43076,localport=13267]
+2018-12-31 22:16:58 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=43076]
+2018-12-31 22:17:02 INFO  FileServer:63 - 	SEND Command Receiced ...
+2018-12-31 22:17:02 INFO  FileClient:91 - Enter File Name :
+2018-12-31 22:17:20 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2018-12-31 22:20:31 INFO  FileServer:58 - 	GET Command Received ...
+2018-12-31 22:20:31 INFO  FileClient:39 - Enter File Name :
+2018-12-31 22:20:36 INFO  FileServer:99 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2018-12-31 22:20:36 INFO  FileClient:79 - read 9072 bytes.0
+2019-01-01 21:31:56 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=43396,localport=13267]
+2019-01-01 21:31:57 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=43396]
+2019-01-01 21:32:44 INFO  FileServer:63 - 	SEND Command Receiced ...
+2019-01-01 21:32:44 INFO  FileClient:91 - Enter File Name :
+2019-01-01 21:33:08 INFO  FileClient:110 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-01 21:37:27 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=43402,localport=13267]
+2019-01-01 21:37:27 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=43402]
+2019-01-01 21:37:41 INFO  FileServer:58 - 	GET Command Received ...
+2019-01-01 21:37:41 INFO  FileClient:39 - Enter File Name :
+2019-01-01 21:38:51 INFO  FileServer:99 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-01 21:38:51 INFO  FileClient:79 - read 9072 bytes.0
+2019-01-01 21:48:05 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=35898,localport=13267]
+2019-01-01 21:48:05 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=35898]
+2019-01-01 21:50:04 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=35900,localport=13267]
+2019-01-01 21:50:04 INFO  FileClient:131 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=35900]
+2019-01-01 21:53:39 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=36012,localport=13267]
+2019-01-01 21:53:39 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36012]
+2019-01-01 21:53:48 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-01 21:53:48 INFO  FileClient:87 - Enter File Name :
+2019-01-01 21:54:23 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-01 21:58:05 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=36024,localport=13267]
+2019-01-01 21:58:05 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36024]
+2019-01-01 22:05:07 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=36104,localport=13267]
+2019-01-01 22:05:07 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36104]
+2019-01-01 22:07:06 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36116]
+2019-01-01 22:07:18 INFO  FileClient:87 - Enter File Name :
+2019-01-01 22:12:02 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=36120,localport=13267]
+2019-01-01 22:12:02 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36120]
+2019-01-01 22:12:10 INFO  FileServer:65 - 	SEND Command Receiced ...
+2019-01-01 22:12:10 INFO  FileClient:87 - Enter File Name :
+2019-01-01 22:12:30 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-01 22:18:01 INFO  FileServer:47 - Accepted connection : Socket[addr=/127.0.0.1,port=36126,localport=13267]
+2019-01-01 22:18:01 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=36126]
+2019-01-01 22:18:07 INFO  FileServer:61 - 	SEND Command Receiced ...
+2019-01-01 22:18:07 INFO  FileClient:87 - Enter File Name :
+2019-01-01 22:18:18 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 10:57:07 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46324,localport=13267]
+2019-01-02 10:57:07 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46324]
+2019-01-02 10:58:20 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 10:58:20 INFO  FileClient:87 - Enter File Name :
+2019-01-02 10:59:05 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:03:12 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46386,localport=13267]
+2019-01-02 11:03:12 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46386]
+2019-01-02 11:03:17 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:03:17 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:03:24 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:05:41 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:05:41 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:06:03 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 11:07:49 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46388,localport=13267]
+2019-01-02 11:07:49 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46388]
+2019-01-02 11:07:55 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:07:55 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:08:05 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 11:08:08 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 11:10:15 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:10:15 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:11:02 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 11:15:34 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46438,localport=13267]
+2019-01-02 11:15:34 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46438]
+2019-01-02 11:15:37 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:15:37 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:15:53 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 11:16:33 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:16:33 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:16:40 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 11:23:52 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:23:55 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 11:27:30 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:28:50 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46454,localport=13267]
+2019-01-02 11:28:50 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46454]
+2019-01-02 11:28:55 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:28:55 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:29:05 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 11:29:18 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:29:18 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:29:27 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 11:29:50 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:29:50 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:29:54 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:30:23 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:30:23 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:30:43 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 11:30:53 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:30:53 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:31:17 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:31:40 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:31:40 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:38:50 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46466,localport=13267]
+2019-01-02 11:38:50 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46466]
+2019-01-02 11:38:56 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:38:56 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:39:18 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 11:39:54 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:39:54 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:40:16 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:49:38 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46488,localport=13267]
+2019-01-02 11:49:38 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46488]
+2019-01-02 11:49:41 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:49:41 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:49:59 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 11:50:07 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:50:07 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:50:10 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 11:50:39 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:50:39 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:50:59 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 11:51:24 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:51:24 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:51:28 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 11:51:38 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:51:38 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:51:52 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 11:52:56 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:52:56 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:53:01 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 11:54:17 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 11:54:17 INFO  FileClient:87 - Enter File Name :
+2019-01-02 11:54:21 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 11:54:31 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:54:31 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:54:46 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 11:55:00 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:55:00 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:55:03 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 11:55:08 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 11:55:27 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 11:55:27 INFO  FileClient:35 - Enter File Name :
+2019-01-02 11:55:31 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 12:04:01 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46504,localport=13267]
+2019-01-02 12:04:01 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46504]
+2019-01-02 12:04:04 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:04:04 INFO  FileClient:88 - Enter File Name :
+2019-01-02 12:04:19 INFO  FileClient:107 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 12:04:34 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:04:34 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:04:38 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 12:05:05 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46506,localport=13267]
+2019-01-02 12:05:06 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46506]
+2019-01-02 12:05:07 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:05:07 INFO  FileClient:87 - Enter File Name :
+2019-01-02 12:05:35 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 12:05:42 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:05:42 INFO  FileClient:87 - Enter File Name :
+2019-01-02 12:05:48 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 12:06:04 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:06:04 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:06:20 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 12:06:29 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:06:29 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:06:34 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 12:06:49 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:06:49 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:06:53 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 12:07:06 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:07:06 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:07:11 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 12:07:15 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 12:07:24 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:07:24 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:07:31 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 12:37:40 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:37:40 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:37:44 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 12:37:59 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:37:59 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:38:05 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 12:38:22 INFO  FileClient:87 - Enter File Name :
+2019-01-02 12:38:22 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:38:35 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 12:46:01 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:46:01 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:50:39 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46702,localport=13267]
+2019-01-02 12:50:39 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46702]
+2019-01-02 12:50:46 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:50:46 INFO  FileClient:87 - Enter File Name :
+2019-01-02 12:50:49 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 12:50:55 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:50:55 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:50:58 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 12:51:00 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 12:51:08 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:51:08 INFO  FileClient:87 - Enter File Name :
+2019-01-02 12:51:12 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 12:51:53 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:51:53 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:55:20 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46710,localport=13267]
+2019-01-02 12:55:21 INFO  FileClient:127 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46710]
+2019-01-02 12:55:24 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 12:55:24 INFO  FileClient:88 - Enter File Name :
+2019-01-02 12:55:28 INFO  FileClient:107 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 12:55:35 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:55:35 INFO  FileClient:35 - Enter File Name :
+2019-01-02 12:55:39 INFO  FileClient:54 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 12:56:41 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 12:56:43 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 12:56:43 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:08:07 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=46738,localport=13267]
+2019-01-02 13:08:07 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=46738]
+2019-01-02 13:08:14 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 13:08:14 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:08:17 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 13:08:20 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 13:08:26 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:08:26 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 13:08:31 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 13:08:33 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 13:09:34 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 13:09:34 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:09:38 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 13:09:51 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 13:09:51 INFO  FileClient:87 - Enter File Name :
+2019-01-02 13:09:56 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 13:10:29 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 13:10:29 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:10:32 INFO  FileClient:53 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 13:10:48 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 13:10:48 INFO  FileClient:35 - Enter File Name :
+2019-01-02 13:10:51 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 13:11:39 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 13:11:39 INFO  FileClient:87 - Enter File Name :
+2019-01-02 13:11:42 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 13:17:39 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 13:17:39 INFO  FileClient:87 - Enter File Name :
+2019-01-02 13:17:42 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 21:09:09 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50006,localport=13267]
+2019-01-02 21:09:09 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50006]
+2019-01-02 21:09:12 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:09:12 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:09:33 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 21:09:55 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:09:55 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:10:00 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 21:10:03 INFO  FileClient:35 - Enter File Name :
+2019-01-02 21:10:03 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:10:15 INFO  FileServer:98 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 21:14:32 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50032,localport=13267]
+2019-01-02 21:14:32 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50032]
+2019-01-02 21:14:37 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:14:37 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:14:51 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 21:17:05 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50086,localport=13267]
+2019-01-02 21:17:05 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50086]
+2019-01-02 21:17:08 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:17:08 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:17:17 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 21:27:04 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50218,localport=13267]
+2019-01-02 21:27:04 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50218]
+2019-01-02 21:27:07 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:27:07 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:27:16 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 21:27:27 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:27:27 INFO  FileClient:35 - Enter File Name :
+2019-01-02 21:27:32 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 21:28:26 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50230,localport=13267]
+2019-01-02 21:28:26 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50230]
+2019-01-02 21:28:29 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:28:29 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:28:33 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 21:28:52 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50232]
+2019-01-02 21:31:16 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50234,localport=13267]
+2019-01-02 21:31:16 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50234]
+2019-01-02 21:31:17 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:31:17 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:31:33 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(179545 bytes)
+2019-01-02 21:31:46 INFO  FileClient:126 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50236]
+2019-01-02 21:32:21 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:38:39 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50258,localport=13267]
+2019-01-02 21:38:39 INFO  FileClient:125 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50258]
+2019-01-02 21:38:55 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:38:55 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:40:14 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50262,localport=13267]
+2019-01-02 21:40:14 INFO  FileClient:125 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50262]
+2019-01-02 21:40:17 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:40:17 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:40:21 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 21:40:35 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:40:35 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:40:39 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 21:40:54 INFO  FileClient:35 - Enter File Name :
+2019-01-02 21:40:54 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:40:58 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 21:44:26 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50326,localport=13267]
+2019-01-02 21:44:26 INFO  FileClient:125 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50326]
+2019-01-02 21:44:30 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:44:30 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:44:36 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 21:44:43 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:44:43 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:45:22 ERROR FileClient:94 - Git.png does not Exists..
+2019-01-02 21:45:35 INFO  FileClient:87 - Enter File Name :
+2019-01-02 21:45:35 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 21:45:46 INFO  FileClient:106 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(21789 bytes)
+2019-01-02 21:46:00 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:46:00 INFO  FileClient:35 - Enter File Name :
+2019-01-02 21:46:04 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 21:54:58 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50362,localport=13267]
+2019-01-02 21:54:58 INFO  FileClient:128 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50362]
+2019-01-02 21:55:59 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:55:59 INFO  FileClient:39 - Enter File Name :
+2019-01-02 21:56:20 INFO  FileClient:47 - signup.zip does not exist on Server ...
+2019-01-02 21:56:54 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 21:56:54 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:07:43 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50402,localport=13267]
+2019-01-02 22:07:43 INFO  FileClient:128 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50402]
+2019-01-02 22:07:47 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:07:47 INFO  FileClient:91 - Enter File Name :
+2019-01-02 22:07:58 ERROR FileClient:98 - Git.png does not Exists..
+2019-01-02 22:08:25 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:08:25 INFO  FileClient:91 - Enter File Name :
+2019-01-02 22:08:30 INFO  FileClient:108 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 22:12:54 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50424,localport=13267]
+2019-01-02 22:12:54 INFO  FileClient:128 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50424]
+2019-01-02 22:12:56 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:12:56 INFO  FileClient:91 - Enter File Name :
+2019-01-02 22:13:15 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50426,localport=13267]
+2019-01-02 22:13:15 INFO  FileClient:128 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50426]
+2019-01-02 22:13:16 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:13:16 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:13:20 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 22:13:33 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:13:33 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:13:36 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 22:21:57 INFO  FileServer:48 - Accepted connection : Socket[addr=/127.0.0.1,port=50452,localport=13267]
+2019-01-02 22:21:57 INFO  FileClient:132 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50452]
+2019-01-02 22:22:00 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:22:00 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:22:22 ERROR FileClient:102 - 1 does not Exists..
+2019-01-02 22:22:29 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:22:29 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:22:41 ERROR FileClient:102 - login.png does not Exists..
+2019-01-02 22:22:45 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:22:45 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:22:51 INFO  FileClient:112 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 22:23:04 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:23:04 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:23:09 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 22:23:11 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:23:11 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:23:18 INFO  FileClient:57 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 22:23:24 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:23:24 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:23:32 INFO  FileServer:102 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 22:32:09 INFO  FileServer:44 - Accepted connection : Socket[addr=/127.0.0.1,port=50462,localport=13267]
+2019-01-02 22:32:09 INFO  FileClient:132 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50462]
+2019-01-02 22:32:21 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:32:21 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:32:25 INFO  FileServer:106 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/Git.png
+2019-01-02 22:32:40 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:32:40 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:32:45 INFO  FileClient:112 - Sending /home/kls102/Documents/FtpAssignment/Storage/client/upload/(9072 bytes)
+2019-01-02 22:32:51 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:32:51 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:32:55 ERROR FileClient:102 - Git.png does not Exists..
+2019-01-02 22:33:20 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:33:20 INFO  FileClient:95 - Enter File Name :
+2019-01-02 22:33:25 ERROR FileClient:102 - as.vyu does not Exists..
+2019-01-02 22:34:15 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:34:15 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:34:20 INFO  FileServer:106 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/login.zip
+2019-01-02 22:34:22 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:34:22 INFO  FileClient:39 - Enter File Name :
+2019-01-02 22:34:33 ERROR FileClient:47 - login.ziu does not exist on Server ...
+2019-01-02 22:45:32 INFO  FileServer:44 - Accepted connection : Socket[addr=/127.0.0.1,port=50488,localport=13267]
+2019-01-02 22:45:32 INFO  FileClient:135 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50488]
+2019-01-02 22:45:41 INFO  FileServer:62 - 	SEND Command Receiced ...
+2019-01-02 22:45:41 INFO  FileClient:97 - Enter File Name :
+2019-01-02 22:46:03 INFO  FileClient:114 - Uploading login.zip(9072 bytes)
+2019-01-02 22:46:36 INFO  FileServer:57 - 	GET Command Received ...
+2019-01-02 22:46:36 INFO  FileClient:40 - Enter File Name :
+2019-01-02 22:46:57 INFO  FileServer:106 - Sending.../home/kls102/Documents/FtpAssignment/Storage/server/ap.png
+2019-01-02 22:46:57 INFO  FileClient:80 - ap.png(21789 bytes) downloaded successfully
+2019-01-02 22:57:11 INFO  FileServer:43 - Waiting for connection...
+2019-01-02 22:57:23 INFO  FileServer:45 - Accepted connection : Socket[addr=/127.0.0.1,port=50518,localport=13267]
+2019-01-02 22:57:24 INFO  FileClient:135 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50518]
+2019-01-02 22:57:31 INFO  FileServer:63 - 	SEND Command Receiced ...
+2019-01-02 22:57:31 INFO  FileClient:97 - Enter File Name :
+2019-01-02 22:57:48 INFO  FileClient:114 - Uploading login.zip(9072 bytes)
+2019-01-02 22:57:48 INFO  FileServer:149 - Recievedlogin.zip(9072 bytes) successfully
+2019-01-02 22:58:05 INFO  FileServer:58 - 	GET Command Received ...
+2019-01-02 22:58:05 INFO  FileClient:40 - Enter File Name :
+2019-01-02 22:58:08 INFO  FileServer:107 - Sending...ap.png
+2019-01-02 22:58:08 INFO  FileClient:80 - ap.png(21789 bytes) downloaded successfully
+2019-01-02 23:00:33 INFO  FileServer:43 - Waiting for connection...
+2019-01-02 23:00:38 INFO  FileServer:45 - Accepted connection : Socket[addr=/127.0.0.1,port=50520,localport=13267]
+2019-01-02 23:00:38 INFO  FileClient:135 - Connection Started : Socket[addr=localhost/127.0.0.1,port=13267,localport=50520]
+2019-01-02 23:00:40 INFO  FileServer:63 - 	SEND Command Receiced ...
+2019-01-02 23:00:40 INFO  FileClient:97 - Enter File Name :
+2019-01-02 23:00:45 INFO  FileClient:114 - Uploading ap.png(21789 bytes)
+2019-01-02 23:00:45 INFO  FileServer:148 - Recieved ap.png(21789 bytes) successfully
+2019-01-02 23:01:01 INFO  FileServer:58 - 	GET Command Received ...
+2019-01-02 23:01:01 INFO  FileClient:40 - Enter File Name :
+2019-01-02 23:01:09 INFO  FileClient:58 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 23:01:13 INFO  FileServer:107 - Sending.. ap.png
+2019-01-02 23:01:13 INFO  FileClient:80 - ap.png(21789 bytes) downloaded successfully
+2019-01-02 23:01:23 INFO  FileServer:58 - 	GET Command Received ...
+2019-01-02 23:01:23 INFO  FileClient:40 - Enter File Name :
+2019-01-02 23:01:27 INFO  FileClient:58 - File Already Exists. Want to OverWrite (Y/N) ?
+2019-01-02 23:01:36 INFO  FileServer:63 - 	SEND Command Receiced ...
+2019-01-02 23:01:36 INFO  FileClient:97 - Enter File Name :
+2019-01-02 23:01:52 INFO  FileClient:114 - Uploading login.zip(9072 bytes)
+2019-01-02 23:01:52 INFO  FileServer:148 - Recieved login.zip(9072 bytes) successfully
